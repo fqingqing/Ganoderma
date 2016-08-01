@@ -1,0 +1,184 @@
+.clear:after{
+	content:"";
+	display: block;
+	clear: both;
+}
+*{
+	margin:0px;
+	padding:0px;
+}
+div,ul,li,img,span,i{
+	margin:0px;
+	padding:0px;
+}
+.all{
+	width: 1600px;
+	height: 1047px;
+}
+.top{
+	width: 1600px;
+	height:963px;
+	background: url(img/lxwm_bg.png) no-repeat;
+}
+.top_u1{
+	width: 1580px;
+	height: 40px;
+	margin-left: 20px;
+	background: #010102;
+	list-style: none;
+}
+.top_u1 li{
+	float: left;
+	height: 40px;
+	line-height: 40px;
+}
+.top_u1 li a{
+	color: #fff;
+	font-size: 14px;
+	text-decoration: none;
+	font-family: "微软雅黑";
+}
+.u1_l1{
+	margin-left: 209px;
+	margin-right: 80px;
+}
+.u1_l2{
+	margin-right: 50px;
+}
+.u1_l3{
+	margin-right: 41px;
+}
+.bottom{
+	width: 1600px;
+	height: 84px;
+	background: #f4f4f4;
+}
+.bottom_u{
+	list-style: none;
+	width: 1600px;
+	height: 84px;
+}
+.bottom_u li{
+	float: left;
+	height:84px;
+	line-height:84px;
+	font-size: 12px;
+	color: #666666;
+	font-family: "微软雅黑";
+}
+.bottom_a1{
+	text-decoration: none;
+	font-size: 12px;
+	color: #666666;
+}
+.bottom_l1{
+	margin-left: 231px;
+}
+.bottom_l2{
+	margin-left: 30px;
+}
+.bottom_l3{
+	margin-left: 63px;
+}
+.center{
+	font-family: "微软雅黑";
+}
+.center_p{
+	float: left;
+	width: 109px;
+	height: 35px;
+	position: relative;
+	left: 507px;
+	top: 56px;
+	background: #cb00da;
+	line-height: 35px;
+	text-align: center;
+	color: #fff;
+}
+.center_1{
+	float: left;
+	width: 603px;
+	height: 257px;
+	position: relative;
+	left: 378px;
+	top: 91px;
+	background: url(img/lxwm_bg1.png) no-repeat;
+
+}
+.center_m{
+	float: left;
+	width: 417px;
+	height: 267px;
+	position: relative;
+	top: 353px;
+	left: -135px;
+}
+.s1{
+	display: block;
+	width: 160px;
+	height: 23px;
+	font-size: 16px;
+	position: absolute;
+	left: 30px;
+	top: 36px;
+}
+.i1{
+	display: inline-block;
+	width: 12px;
+	height: 13px;
+	background: url(img/lxwm_but1.png) no-repeat;
+}
+.i2{
+	display: inline-block;
+	width: 12px;
+	height: 20px;
+	background: url(img/lxwm_but2.png) no-repeat;
+}
+.i3{
+	display: inline-block;
+	width: 12px;
+	height: 18px;
+	background: url(img/lxwm_but3.png) no-repeat;
+}
+.i4{
+	display: inline-block;
+	width: 12px;
+	height: 15px;
+	background: url(img/lxwm_but4.png) no-repeat;
+}
+.s2{
+	width: 224px;
+	height: 31px;
+	font-size: 14px;
+	position: absolute;
+	left: 30px;
+	top: 92px;
+	color: #a3a3a3;
+}
+.s3{
+	width: 181px;
+	height: 31px;
+	font-size: 14px;
+	position: absolute;
+	left: 349px;
+	top: 92px;
+	color: #a3a3a3;
+}
+.s4{
+	width: 236px;
+	height: 31px;
+	font-size: 14px;
+	position: absolute;
+	left: 30px;
+	top: 122px;
+	color: #a3a3a3;
+}
+.s5{
+	width: 181px;
+	height: 31px;
+	font-size: 14px;
+	position: absolute;
+	left: 349px;
+	top: 122px;
+	color: #a3a3a3;
+}

@@ -1,0 +1,170 @@
+.clear:after{
+	content:"";
+	display: block;
+	clear: both;
+}
+*{
+	margin:0px;
+	padding:0px;
+}
+div,ul,li,img,span,i{
+	margin:0px;
+	padding:0px;
+}
+.all{
+	width: 1600px;
+	height: 1196px;
+}
+.top{
+	width: 1600px;
+	height:1120px;
+	background: url(img/wenhua_bg.png) no-repeat;
+}
+.top_u1{
+	width: 1580px;
+	height: 50px;
+	margin-left: 20px;
+	background: #010102;
+	list-style: none;
+}
+.top_u1 li{
+	float: left;
+	height: 50px;
+	line-height: 50px;
+}
+.top_u1 li a{
+	color: #fff;
+	font-size: 14px;
+	text-decoration: none;
+	font-family: "微软雅黑";
+}
+.u1_l1{
+	margin-left: 209px;
+	margin-right: 112px;
+}
+.u1_l2{
+	margin-right: 65px;
+}
+.u1_l3{
+	margin-right: 55px;
+}
+.bottom{
+	width: 1600px;
+	height: 79px;
+	background: #f4f4f4;
+}
+.bottom_u{
+	list-style: none;
+	width: 1600px;
+	height: 79px;
+}
+.bottom_u li{
+	float: left;
+	height: 79px;
+	line-height: 79px;
+	font-size: 12px;
+	color: #666666;
+	font-family: "微软雅黑";
+}
+.bottom_a1{
+	text-decoration: none;
+	font-size: 12px;
+	color: #666666;
+}
+.bottom_l1{
+	margin-left: 231px;
+}
+.bottom_l2{
+	margin-left: 30px;
+}
+.bottom_l3{
+	margin-left: 63px;
+}
+.center{
+	width: 1140px;
+	height: 1070px;
+	position: relative;
+	left: 50%;
+	margin-left: -570px;
+	top:0px;
+	font-family: "微软雅黑";
+}
+.center_p1{
+	width: 1140px;
+	position: absolute;
+	top: 17px;
+	height: 57px;
+	line-height: 57px;
+	font-size: 18px;
+	color: #fff;
+	border-bottom: 1px #1f1a2e solid;
+}
+.center_1{
+	width: 1140px;
+	height: 889px;
+	position: absolute;
+	top: 106px;
+	background: #fff;
+}
+.center_2{
+	float: left;
+	width: 101px;
+	height: 822px;
+	position: absolute;
+	left: 15px;
+	top: 19px;
+	background: url(img/wenhua_but1.png) no-repeat;
+}
+.center_2 span{
+	float: left;
+	font-size: 14px;
+}
+.center_sp1{
+	color: #3da4b0;
+	position: absolute;
+	left: 35px;
+	top: 107px;
+}
+.center_sp2{
+	color: #c2992c;
+	position: absolute;
+	left: 35px;
+	top: 220px;
+}
+.center_sp3{
+	color: #e45642;
+	position: absolute;
+	left: 35px;
+	top: 415px;
+}
+.center_1 p,.center_3,.center_4{
+	float: left;
+	font-size: 12px;
+	color: #3b3b3b;
+}
+.center_p2{
+	position: absolute;
+	left: 44px;
+	top: 38px;
+}
+.center_p3{
+	position: absolute;
+	left: 44px;
+	top: 174px;
+}
+.center_3{
+	position: absolute;
+	left: 44px;
+	top: 289px;
+}
+.center_4{
+	position: absolute;
+	left: 44px;
+	top: 485px;
+}
+.center_4 span
+{
+	display: block;
+	font-weight: bold;
+	
+}

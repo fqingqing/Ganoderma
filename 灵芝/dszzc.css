@@ -1,0 +1,110 @@
+.clear:after{
+	content:"";
+	display: block;
+	clear: both;
+}
+*{
+	margin:0px;
+	padding:0px;
+}
+div,ul,li,img,span,i{
+	margin:0px;
+	padding:0px;
+}
+.all{
+	width: 1600px;
+	height: 711px;
+}
+.top{
+	width: 1600px;
+	height: 654px;
+	background: url(img/zhici_bg.png) no-repeat;
+}
+.top_u1{
+	width: 1580px;
+	height: 35px;
+	margin-left: 20px;
+	background: #010102;
+	list-style: none;
+}
+.top_u1 li{
+	float: left;
+	height: 35px;
+	line-height: 35px;
+}
+.top_u1 li a{
+	color: #fff;
+	font-size: 12px;
+	text-decoration: none;
+	font-family: "微软雅黑";
+}
+.u1_l1{
+	margin-left: 209px;
+	margin-right: 103px;
+}
+.u1_l2{
+	margin-right: 65px;
+}
+.u1_l3{
+	margin-right: 55px;
+}
+.bottom{
+	width: 1600px;
+	height: 57px;
+	background: #f4f4f4;
+}
+.bottom_u{
+	list-style: none;
+	width: 1600px;
+	height: 57px;
+}
+.bottom_u li{
+	float: left;
+	height: 57px;
+	line-height: 57px;
+	font-size: 12px;
+	color: #666666;
+	font-family: "微软雅黑";
+}
+.bottom_a1{
+	text-decoration: none;
+	font-size: 12px;
+	color: #666666;
+}
+.bottom_l1{
+	margin-left: 231px;
+}
+.bottom_l2{
+	margin-left: 30px;
+}
+.bottom_l3{
+	margin-left: 63px;
+}
+.center{
+	width: 1140px;
+	height: 538px;
+	position: relative;
+	left: 50%;
+	margin-left: -570px;
+	top:21px;
+	background: #fff;
+
+}
+.center_p{
+	width: 108px;
+	height: 30px;
+	position: absolute;
+	left: 30px;
+	top:28px;
+	background: #cb00da;
+	font-size: 15px;
+	color: #f0ecf1;
+	text-align: center;
+	line-height: 30px;
+	font-family: "微软雅黑";
+}
+.center_m{
+	position: absolute;
+	left: 19px;
+	top:57px;
+}
